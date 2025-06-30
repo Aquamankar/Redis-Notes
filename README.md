@@ -78,7 +78,7 @@ docker run -d --name redis-server -p 6379:6379 redis
 
 
 
-✅ Redis as Rate Limiter – Overview
+# ✅ Redis as Rate Limiter – Overview
 Rate Limiting is used to control the number of requests a client can make to a server in a given time window. Redis is ideal for this due to its:
 
 Fast performance (in-memory)
